@@ -9,3 +9,5 @@ The .ipynb notebook is self explainatory and can be easily understand by a begin
 The concept of adding layers is been used in this repo by creating a custom model in which multiple layers are been added. 
 
 Note: The notebook using MNIST dataset for training purpose. Before running the notebook, one must download the MNIST dataset and should change the path to the dataset.
+
+References:  Free CodeCamp
